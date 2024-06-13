@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## GitHub Stats
+![MadSuleiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadSuleiman&show_icons=true&theme=cobalt)
 
 ## Skills
 
