@@ -1,5 +1,26 @@
 ## Hi there 👋
 
+
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,js,python,java,swift,)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css,tailwind,)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,flask,docker,nodejs,nginx&perline=3)](https://skillicons.dev)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,jira,supabase,vercel)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,docker,jetson,githubactions,gitlab,notion,ps,pnpm,powershell,pytorch,cuda,redux,tensorflow,arduino,)
+
+#### Operating Systems
+![Operating Systems](https://skillicons.dev/icons?i=ubuntu,widnows,apple,)
+
 <!--
 **MadSuleiman/MadSuleiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +32,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
