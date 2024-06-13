@@ -16,10 +16,10 @@
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,jira,supabase,vercel)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,docker,jetson,githubactions,gitlab,notion,ps,pnpm,powershell,pytorch,cuda,redux,tensorflow,arduino,)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,docker,githubactions,gitlab,notion,ps,pnpm,powershell,pytorch,redux,tensorflow,arduino,)
 
 #### Operating Systems
-![Operating Systems](https://skillicons.dev/icons?i=ubuntu,widnows,apple,)
+![Operating Systems](https://skillicons.dev/icons?i=ubuntu,windows,apple,)
 
 <!--
 **MadSuleiman/MadSuleiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
