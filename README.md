@@ -10,10 +10,10 @@
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css,tailwind,)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,flask,docker,nodejs,nginx&perline=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,flask,docker,nodejs,nginx)](https://skillicons.dev)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,jira,supabase,vercel)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,supabase,vercel)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,docker,githubactions,gitlab,notion,ps,pnpm,powershell,pytorch,redux,tensorflow,arduino,)
